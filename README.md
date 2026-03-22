@@ -188,6 +188,11 @@ multimodal-search/
 
 ###  Voice → Image Search
 > *Speak your query — results appear instantly*
+<img width="1920" height="1080" alt="Screenshot (285)" src="https://github.com/user-attachments/assets/fd34b38f-4714-4463-876b-d3f9b26eade3" />
+
+### Expanding an image
+<img width="1920" height="1080" alt="Screenshot (287)" src="https://github.com/user-attachments/assets/fb0d00fd-44bc-45ba-8263-2356498a1d79" />
+
 
 
 ---
